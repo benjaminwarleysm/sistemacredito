@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Análise de Crédito",
+    "slug": "projeto-analise-credito",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.aluno.analisecredito"
+    }
+  }
+}
